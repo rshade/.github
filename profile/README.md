@@ -1,8 +1,9 @@
-## hi, I'm Richard
+## Hi, I'm Richard - KI5WWE.
 
-Infrastructure nerd. Currently at [Pulumi](https://github.com/pulumi). KI5WWE.
+Infrastructure nerd. 
+Currently at [Pulumi](https://github.com/pulumi). 
 
-I smoke briskets and automate everything else.
+*I smoke briskets and automate everything else.*
 
 ### things I built
 
